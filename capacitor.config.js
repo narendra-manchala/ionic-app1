@@ -1,0 +1,12 @@
+const config = {
+  appId: 'surendranath.org',
+  appName: 'surendranath',
+  webDir: 'www',
+  bundledWebRuntime: false,
+  server: {
+    url: 'https://surendranath.org/',
+    cleartext: true
+  }
+};
+
+export default config;
