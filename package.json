@@ -9,11 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC", 
+  "license": "ISC",
   "description": "Surendranath web app",
   "dependencies": {
     "@capacitor/android": "^7.0.1",
-    "@capacitor/cli": "^7.0.1", 
+    "@capacitor/cli": "^7.0.1",
     "@capacitor/core": "^7.0.1"
   }
 }
