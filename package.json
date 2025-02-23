@@ -1,17 +1,19 @@
 {
-  "name": "ionic-app1",
+  "name": "surendranath",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run serve",
+    "serve": "capacitor serve"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": "",
+  "license": "ISC", 
+  "description": "Surendranath web app",
   "dependencies": {
     "@capacitor/android": "^7.0.1",
-    "@capacitor/cli": "^7.0.1",
+    "@capacitor/cli": "^7.0.1", 
     "@capacitor/core": "^7.0.1"
   }
 }
